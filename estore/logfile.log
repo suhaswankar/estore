@@ -1,0 +1,61 @@
+2023-06-26 14:02:12,600 INFO  [$c {1}] object for register function us created 
+2023-06-26 14:02:12,788 INFO  [$c {1}] click my account option succesfully 
+2023-06-26 14:02:51,411 INFO  [$c {1}] click register option succesfully 
+2023-06-26 14:02:52,188 INFO  [$c {1}] firstname accept succesfully 
+2023-06-26 14:02:52,393 INFO  [$c {1}] lastname accept succesfully 
+2023-06-26 14:02:52,694 INFO  [$c {1}] email accept succesfully 
+2023-06-26 14:02:53,066 INFO  [$c {1}] phone accept succesfully 
+2023-06-26 14:02:53,385 INFO  [$c {1}] password accept succesfully 
+2023-06-26 14:02:53,706 INFO  [$c {1}] confirm password accept succesfully 
+2023-06-26 14:02:53,901 INFO  [$c {1}] newsletter selected succesfully 
+2023-06-26 14:02:54,071 INFO  [$c {1}] privacy selected  succesfully 
+2023-06-26 14:03:02,507 INFO  [$c {1}] continue button clicked succesfully 
+2023-06-26 15:32:02,318 INFO  [$c {1}] object for register function us created 
+2023-06-26 15:32:02,472 INFO  [$c {1}] click my account option succesfully 
+2023-06-26 15:32:07,471 INFO  [$c {1}] click register option succesfully 
+2023-06-26 15:32:07,690 INFO  [$c {1}] firstname accept succesfully 
+2023-06-26 15:32:07,922 INFO  [$c {1}] lastname accept succesfully 
+2023-06-26 15:32:08,204 INFO  [$c {1}] email accept succesfully 
+2023-06-26 15:32:08,369 INFO  [$c {1}] phone accept succesfully 
+2023-06-26 15:32:08,564 INFO  [$c {1}] password accept succesfully 
+2023-06-26 15:32:08,742 INFO  [$c {1}] confirm password accept succesfully 
+2023-06-26 15:32:08,844 INFO  [$c {1}] newsletter selected succesfully 
+2023-06-26 15:32:08,939 INFO  [$c {1}] privacy selected  succesfully 
+2023-06-26 15:32:09,575 INFO  [$c {1}] continue button clicked succesfully 
+2023-06-26 16:04:52,882 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:04:53,125 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:13,080 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:13,253 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:13,446 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:17,225 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:17,554 INFO  [$c {1}] username entered successfully 
+2023-06-26 16:05:17,770 INFO  [$c {1}] password entered successfully 
+2023-06-26 16:05:19,185 INFO  [$c {1}] login button click successfully 
+2023-06-26 16:05:19,196 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:19,309 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:34,345 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:34,475 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:35,202 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:35,550 INFO  [$c {1}] username entered successfully 
+2023-06-26 16:05:35,799 INFO  [$c {1}] password entered successfully 
+2023-06-26 16:05:36,869 INFO  [$c {1}] login button click successfully 
+2023-06-26 16:05:36,911 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:37,049 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:42,979 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:43,164 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:44,270 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:44,518 INFO  [$c {1}] username entered successfully 
+2023-06-26 16:05:44,740 INFO  [$c {1}] password entered successfully 
+2023-06-26 16:05:45,225 INFO  [$c {1}] login button click successfully 
+2023-06-26 16:05:45,258 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:45,673 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:46,405 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:46,644 INFO  [$c {1}] username entered successfully 
+2023-06-26 16:05:46,888 INFO  [$c {1}] password entered successfully 
+2023-06-26 16:05:47,889 INFO  [$c {1}] login button click successfully 
+2023-06-26 16:05:47,932 INFO  [$c {1}] object is created for login test 
+2023-06-26 16:05:48,098 INFO  [$c {1}] my account option is click successfully 
+2023-06-26 16:05:48,678 INFO  [$c {1}] login option is click successfully 
+2023-06-26 16:05:48,985 INFO  [$c {1}] username entered successfully 
+2023-06-26 16:05:49,220 INFO  [$c {1}] password entered successfully 
+2023-06-26 16:05:49,772 INFO  [$c {1}] login button click successfully 
